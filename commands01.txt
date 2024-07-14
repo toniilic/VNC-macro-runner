@@ -1,3 +1,0 @@
-mouseMove:300,50
-mouseClick:left
-type:home
