@@ -1,0 +1,7 @@
+mousemove:300,50
+mouseclick:left
+wait:1000
+type:Hello, World!
+wait:500
+mousemove:500,100
+mouseclick:right

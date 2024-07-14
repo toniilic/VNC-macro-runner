@@ -9,7 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="VncSharp" Version="1.0.7" />
     <PackageReference Include="YamlDotNet" Version="15.3.0" />
   </ItemGroup>
 
